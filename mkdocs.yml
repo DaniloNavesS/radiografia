@@ -1,5 +1,10 @@
 site_name: Articulação
 
+nav:
+  - Realização: index.md
+  - Apresentação Prezi: apresentacao.md
+  - Exames de Imagem: exame_imagem.md
+
 theme:
   name: material
   icon:
@@ -32,7 +37,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Alternar para modo escuro
-      primary: grey
+      primary: blue
       accent: light blue
 
     - scheme: slate
