@@ -1,9 +1,12 @@
 site_name: Articulação
 
 nav:
-  - Realização: index.md
   - Apresentação Prezi: apresentacao.md
   - Exames de Imagem: exame_imagem.md
+  - Histológico ATM: histo.md
+  - Realização: index.md
+  - Referências: refs.md
+
 
 theme:
   name: material
