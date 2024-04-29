@@ -1,10 +1,10 @@
 site_name: "Trabalho Oclusão: ATM"
 
 nav:
-  - Apresentação Prezi: apresentacao.md
+  - Apresentação Prezi: index.md
   - Exames de Imagem: exame_imagem.md
   - Histológico ATM: histo.md
-  - Realização: index.md
+  - Realização: apresentacao.md
   - Referências: refs.md
 
 

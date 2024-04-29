@@ -1,7 +1,11 @@
-# Link de acesso: 
 
-[Articulação Temporomandibular by Prezi](https://prezi.com/view/vmEEzSvejthHXGp1tKIK/)
+
+# 5° Período | Disciplina: Oclusão
+
+## Professor: Arthur Silveira
 
 <br>
 
-Observação: acessar o link via página web.
+### - Grupo ATM
+
+![iMAGEM 6](img/6.png)
