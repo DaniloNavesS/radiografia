@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# 5° Período | Disciplina: Oclusão
 
-For full docaentation visit [mkdocs.org](https://www.mkdocs.org).
+## Professor: Arthur Silveira
 
-## Commands
+<br>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### - Grupo ATM
 
-## Project layout
+![iMAGEM 6](img/6.png)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

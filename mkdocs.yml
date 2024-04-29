@@ -1,4 +1,4 @@
-site_name: Articulação
+site_name: "Trabalho Oclusão: ATM"
 
 nav:
   - Apresentação Prezi: apresentacao.md
@@ -32,8 +32,7 @@ theme:
   nav_style: dark
   language: pt
   repo: fontawesome/brands/github
-  logo: img/brasao2.png
-  favicon: img/brasao.ico
+  logo: img/logo.png 
 
   palette:
     - scheme: light blue

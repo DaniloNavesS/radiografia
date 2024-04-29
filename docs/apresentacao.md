@@ -1,4 +1,4 @@
-# LINK DE ACESSO: 
+# Link de acesso: 
 
 [Articulação Temporomandibular by Prezi](https://prezi.com/view/vmEEzSvejthHXGp1tKIK/)
 
